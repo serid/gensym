@@ -1,3 +1,3 @@
 # gensym
 
-Generate a random russian word using a Markov chain or a neural network (WIP).
+Generate a random russian word using Markov chains.
